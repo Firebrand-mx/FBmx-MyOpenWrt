@@ -24,13 +24,13 @@ name: Build OpenWrt (Linksys Devices)
       source:
         description: '[0] Snapshot [1] openwrt-19.07 [2] openwrt-21.02 [3] lede'
         required: true
-        default: '0'
+        default: '2'
       lucisource:
         description: |
           'LUCI Feeds Location:'
           '[0] Snapshot [1] openwrt-19.07 [2] openwrt-21.02 [3] lede'
         required: true
-        default: '0'
+        default: '2'
       sshd:
         description: '[0] NONE [1] TMATE SSH, [2] NGROK SSH [3] SSH After Build'
         required: true
