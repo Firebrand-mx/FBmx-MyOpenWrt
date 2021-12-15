@@ -83,4 +83,4 @@ _______________________________________________________________________
 - [c-hive/gha-remove-artifacts](https://github.com/c-hive/gha-remove-artifacts)
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=License)](https://github.com/Firebrand-mx/FBmx-MyOpenWrt/blob/master/LICENSE) ![GitHub Stars](https://img.shields.io/github/stars/Firebrand-mx/FBmx-MyOpenWrt-Private.svg?style=flat-square&label=Stars&logo=github) ![GitHub Forks](https://img.shields.io/github/forks/Firebrand-mx/FBmx-MyOpenWrt-Private.svg?style=flat-square&label=Forks&logo=github)
+[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=License)](https://github.com/Firebrand-mx/FBmx-MyOpenWrt/blob/master/LICENSE) ![GitHub Stars](https://img.shields.io/github/stars/Firebrand-mx/FBmx-MyOpenWrt.svg?style=flat-square&label=Stars&logo=github) ![GitHub Forks](https://img.shields.io/github/forks/Firebrand-mx/FBmx-MyOpenWrt.svg?style=flat-square&label=Forks&logo=github)
