@@ -4,11 +4,11 @@
 ## Original from [P3TERX](https://github.com/P3TERX/Actions-OpenWrt)
 ### Created to make building OpenWRT easier using github actions.
 
-####* Added the following packages:
-    ####* kmod-ipt-hashlimit
-    ####* kmod-sched
-    ####* kmod-veth
-    ####* iptables-mod-hashlimit
+* Added the following packages:
+    * kmod-ipt-hashlimit
+    * kmod-sched
+    * kmod-veth
+    * iptables-mod-hashlimit
 
 ![LinksysWRT3200ACM](images/2021/06/linksys-wrt3200acm.jpg)
 
