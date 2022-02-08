@@ -10,7 +10,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt (Linksys Devices)
+name: Test Build (Short) (Linksys Devices)
 'on':
   repository_dispatch: null
   workflow_dispatch:
@@ -24,13 +24,13 @@ name: Build OpenWrt (Linksys Devices)
       source:
         description: '[0] Snapshot [1] openwrt-19.07 [2] openwrt-21.02 [3] lede'
         required: true
-        default: '2'
+        default: '0'
       lucisource:
         description: |
           'LUCI Feeds Location:'
           '[0] Snapshot [1] openwrt-19.07 [2] openwrt-21.02 [3] lede'
         required: true
-        default: '2'
+        default: '0'
       sshd:
         description: '[0] NONE [1] TMATE SSH, [2] NGROK SSH [3] SSH After Build'
         required: true
