@@ -16,6 +16,7 @@
 - Patches directory are taken from: [Divested-WRT: UNOFFICIAL OpenWrt builds](https://divested.dev/unofficial-openwrt-builds/mvebu-linksys/patches/)
 - mwlwifi is taken from: [Lean's Openwrt source code repository](https://github.com/coolsnowwolf/lede/tree/master/package/kernel/mwlwifi)
 - modifications to action script By Eliminater74
+- further modifications to include packages needed for running SQM on OpenWRT included by Firebrand-mx
 _______________________________________________________________________
 [Join Us on Discord][0b9719c2]
 
@@ -67,6 +68,7 @@ _______________________________________________________________________
 ## Acknowledgments
 
 - [P3TERX](https://github.com/P3TERX/Actions-OpenWrt)
+- [Action_OpenWRT_AutoBuild_Linksys_Devices](https://github.com/DevOpenWRT-Router/Action_OpenWRT_AutoBuild_Linksys_Devices)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)
