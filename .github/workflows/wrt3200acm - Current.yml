@@ -224,8 +224,8 @@ jobs:
         id: setLuci
         run: |
               cd openwrt
-              sed -i 's#/git.openwrt.org/project/luci.git#/git.openwrt.org/project/luci.git#g' current.feeds.conf.default
-              sed -i 's#/github.com/coolsnowwolf/luci#/git.openwrt.org/project/luci.git#g' current.feeds.conf.default
+              sed -i 's#/git.openwrt.org/project/luci.git#/git.openwrt.org/project/luci.git#g' feeds.conf.default
+              sed -i 's#/github.com/coolsnowwolf/luci#/git.openwrt.org/project/luci.git#g' feeds.conf.default
 
 ### ------------------------------------------------------------------------------ ###
       - name: Load DevOpenWRT-Router's Packages
