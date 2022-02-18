@@ -1,0 +1,14 @@
+#################################################################################################
+### UPDATED: 07/28/2021                                                                       ###
+#################################################################################################
+
+
+### --------------------------------------------------------------------------------------- ###
+### ADD Default Snapshot Official Feeds Source ###
+src-git packages https://git.openwrt.org/?p=feed/packages.git;a=shortlog;h=refs/heads/openwrt-21.02
+src-git luci https://git.openwrt.org/?p=project/luci.git;a=shortlog;h=refs/heads/openwrt-21.02
+src-git routing https://git.openwrt.org/?p=feed/routing.git;a=shortlog;h=refs/heads/openwrt-21.02
+src-git telephony https://git.openwrt.org/?p=feed/telephony.git;a=shortlog;h=refs/heads/openwrt-21.02
+
+### luci-theme-opentomato
+src-git opentomato https://github.com/solidus1983/luci-theme-opentomato.git
