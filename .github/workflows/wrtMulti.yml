@@ -81,7 +81,7 @@ env:
   TARGET_DIRECTORY_A: "packages"
   TARGET_DIRECTORY_B: "kmods/$KMOD_DIR"
 ### -------------------- ###
-  TZ: America/New_York
+  TZ: America/Mexico_City
 jobs:
   build:
     runs-on: ubuntu-20.04
