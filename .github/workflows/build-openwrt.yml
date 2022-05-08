@@ -90,7 +90,7 @@ env:
   SOURCE_DIRECTORY_A: "openwrt/bin/packages/arm_cortex-a9_vfpv3-d16"
   SOURCE_DIRECTORY_B: "openwrt/bin/targets/mvebu/cortexa9/kmods/$KMOD_DIR"
   DESTINATION_GITHUB_USERNAME: "Firebrand-mx"
-  DESTINATION_REPOSITORY_NAME: "MyOpenWrt"
+  DESTINATION_REPOSITORY_NAME: "FBmx-MyOpenWrt"
   USER_EMAIL: "BuildBot2021@gmail.com"
   USER_NAME: "BuildBot2021"
   DESTINATION_REPOSITORY_USERNAME: "Firebrand-mx"
