@@ -1,0 +1,11 @@
+#################################################################################################
+### UPDATED: 03/23/2022                                                                       ###
+#################################################################################################
+
+
+### --------------------------------------------------------------------------------------- ###
+### ADD Default Snapshot Official Feeds Source ###
+src-git packages https://git.openwrt.org/feed/packages.git
+src-git luci https://git.openwrt.org/project/luci.git
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git telephony https://git.openwrt.org/feed/telephony.git
