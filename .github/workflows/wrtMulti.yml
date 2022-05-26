@@ -25,7 +25,7 @@ jobs:
       - name: Emit repository_dispatch
         uses: mvasigh/dispatch-action@main
         with:
-          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          token: ${{ secrets.ACTIONS_TRIGGER_PAT }}
           repo: FBmx-MyOpenWrt
           owner: Firebrand-mx
           event_type: repository_dispatch
