@@ -90,7 +90,7 @@ env:
   USER_EMAIL: BuildBot2021@gmail.com
   USER_NAME: BuildBot2021
   DESTINATION_REPOSITORY_USERNAME: Firebrand-mx
-  TARGET_BRANCH: main
+  TARGET_BRANCH: linksys
   COMMIT_MESSAGE: 'Updated: $D'
   TARGET_DIRECTORY_A: packages
   TARGET_DIRECTORY_B: kmods/$KMOD_DIR
